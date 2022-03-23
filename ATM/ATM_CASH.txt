@@ -9,5 +9,4 @@ Denomination 100
 Numbers 1
 Value 100
 
-
 Total Amount in ATM 2600
